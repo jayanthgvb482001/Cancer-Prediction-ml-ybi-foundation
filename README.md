@@ -49,7 +49,7 @@ The following algorithms are implemented and compared:
 
 ## Results
 
-Different Machine Learning models are evaluated using accuracy score to identify the best performing model for cancer prediction.
+Different Machine Learning models are evaluated using accuracy score to identify the best performing model for cancer prediction.Support Vector Machine (SVM) achieved the highest accuracy among all implemented models and was selected as the best model for cancer prediction.
 
 ## Conclusion
 
